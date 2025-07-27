@@ -81,16 +81,19 @@ What's Next?
 - Connect to a CMS like **Contentful** or **Sanity.io**
 - Improve accessibility and SEO optimization
 
----
 
 Building this was a super fun experience and helped me grow as a frontend developer. 💪
 
----
 
-**Author**
 
-Made with ❤️ by **Srividhya Munagala** 
- *Frontend Developer | Passionate Learner | Web Design Enthusiast*
+✍️ Authors :
+
+Made with ❤️ by:
+
+- **Srividhya Munagala** – Frontend Developer | Passionate Learner  
+- **Sai Sruthi Somu ** –  Frontend Developer,Passionate Learner  
+We collaborated on this project as part of our frontend development course and enjoyed learning together.
+
  
 [![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/srividhya-munagala-83a2a9289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
 
