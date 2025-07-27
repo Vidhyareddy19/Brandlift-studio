@@ -46,6 +46,8 @@ It’s responsive, user-friendly, and highlights real-world sections you'd find 
 <img width="1804" height="921" alt="image" src="https://github.com/user-attachments/assets/f9f1b832-69cd-4be9-8e1f-da1a157fad79" />
 <img width="1799" height="913" alt="image" src="https://github.com/user-attachments/assets/bc9e0707-ecf8-48e6-b5c9-882b9b6b2c9e" />
 <img width="1795" height="905" alt="image" src="https://github.com/user-attachments/assets/04fbe508-f1b8-4430-8184-519d6d362b3a" />
+<img width="1501" height="877" alt="image" src="https://github.com/user-attachments/assets/6979a27b-2fc0-4926-ba2d-7943e6d515b1" />
+
 
 ## 📁 How to Run Locally
 
